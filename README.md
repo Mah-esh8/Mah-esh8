@@ -1,59 +1,79 @@
 # Hi, I'm Mahesh 👋
 
-I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**, with a growing focus on **databases, data systems, and practical software projects**.
+**B.Tech — Artificial Intelligence & Data Science**
 
-I enjoy turning data into useful applications and understanding how the systems behind those applications work.
+I work with **Python, SQL, databases, and data-driven applications**, with a particular interest in how data moves through a system — from raw input and transformation to storage, querying, analysis, and application-level use.
 
-## What I'm Currently Focused On
+My projects are mainly centered around **data analytics, database systems, ETL workflows, and machine learning fundamentals**. I prefer building complete working systems rather than working with isolated techniques.
 
-- SQL and MySQL
-- Database Management Systems
-- Python for data and automation
-- Data analytics and visualization
+## Areas I Work With
+
+- **Programming:** Python, SQL
+- **Databases:** MySQL, relational database concepts, SQLAlchemy
+- **Data:** Pandas, NumPy, data cleaning, transformation, exploratory analysis
+- **Analytics & Visualization:** Matplotlib, Plotly, Streamlit
+- **Machine Learning:** Scikit-learn, clustering, time-series forecasting
+- **Development Tools:** Git, GitHub, Jupyter Notebook
+
+## Projects & Systems
+
+### Healthcare Patient Segmentation
+
+An end-to-end data workflow built around patient data, covering:
+
+**Validation → Cleaning → Feature Engineering → Preprocessing → Clustering → Interpretation → MySQL → Dashboard**
+
+The project uses K-Means clustering to identify patient groups and connects the analytical workflow with a structured database and interactive application.
+
+[View repository](https://github.com/Mah-esh8/Healthcare-patient-segmentation)
+
+### Electricity Usage Forecasting
+
+A time-series project built from smart-meter electricity readings.
+
+The workflow includes **15-minute data processing, hourly resampling, exploratory analysis, time-based train/test separation, Prophet forecasting, MAE/RMSE evaluation, and Streamlit visualization**.
+
+[View repository](https://github.com/Mah-esh8/Electricity-Usage-Forecasting)
+
+### Sales Revenue Dashboard
+
+A database-oriented analytics application using **MySQL, SQLAlchemy, Streamlit, and Plotly**.
+
+The project uses SQL operations such as **joins, aggregations, CTEs, and window functions** to provide views of sales, revenue, products, regions, and customers.
+
+[View repository](https://github.com/Mah-esh8/Sales-Revenue-Dashboard)
+
+### Sales Revenue ETL & Database System
+
+A project focused more directly on the movement of data through a database workflow:
+
+**Raw Excel → Data Cleaning → Transformation → MySQL → SQL Analysis → Dashboard**
+
+It includes database schema design, bulk data loading, SQLAlchemy integration, and an application layer for exploring the processed data.
+
+[View repository](https://github.com/Mah-esh8/sales-revenue-report-dashboard)
+
+## What I'm Exploring
+
+My current learning is moving deeper into **database systems and data engineering**.
+
+I'm particularly interested in:
+
+- Database design and normalization
+- SQL query optimization
+- Transactions and database reliability
+- Indexing and performance
 - ETL and data pipelines
-- Machine learning fundamentals
-- Database administration fundamentals
+- Database monitoring and maintenance
+- Python-based database automation
+- Cloud database concepts
 
-## Selected Projects
+## Where I'm Heading
 
-### 🏥 Healthcare Patient Segmentation
-An end-to-end data project covering data validation, cleaning, feature engineering, preprocessing, K-Means clustering, MySQL integration, and dashboarding.
+My long-term direction is toward **database-focused roles, particularly Database Administration (DBA)**.
 
-[View Project](https://github.com/Mah-esh8/Healthcare-patient-segmentation)
-
-### ⚡ Electricity Usage Forecasting
-A time-series forecasting project using smart-meter data, hourly resampling, exploratory analysis, Prophet, model evaluation, and an interactive Streamlit application.
-
-[View Project](https://github.com/Mah-esh8/Electricity-Usage-Forecasting)
-
-### 📊 Sales Revenue Dashboard
-A SQL and Streamlit dashboard for exploring sales, revenue, regional performance, products, and customers using MySQL, SQLAlchemy, and Plotly.
-
-[View Project](https://github.com/Mah-esh8/Sales-Revenue-Dashboard)
-
-### 🗄️ Sales Revenue ETL & Database Project
-An ETL-focused project that takes raw Excel data through cleaning and transformation into MySQL, followed by SQL-based analysis and a Streamlit dashboard.
-
-[View Project](https://github.com/Mah-esh8/sales-revenue-report-dashboard)
-
-## Technical Stack
-
-**Languages:** Python, SQL
-
-**Data & ML:** Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Prophet
-
-**Databases:** MySQL, SQL, SQLAlchemy
-
-**Applications:** Streamlit
-
-**Tools:** Git, GitHub, Jupyter Notebook
-
-## Current Learning Direction
-
-I'm building a stronger foundation in **database systems and data engineering**, while continuing to develop practical skills in data analytics, machine learning, and Python.
-
-My long-term career direction is toward **Database Administration (DBA)** and database-focused roles.
+I'm using projects to build the practical side of that path — not only writing queries, but understanding how data is **stored, processed, secured, maintained, and made available to applications**.
 
 ---
 
-*Learning by building, testing, and improving one project at a time.*
+**Python • SQL • MySQL • Data • Databases • ETL**
